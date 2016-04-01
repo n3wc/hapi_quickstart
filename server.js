@@ -32,6 +32,7 @@ function helloWorld(request, reply) {
 }
 
 //////////////
+//testing comments
 const swaggerOptions = {
   info: {
     'title': 'Test API Documentation','version': Pack.version
